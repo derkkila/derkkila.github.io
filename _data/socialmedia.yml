@@ -1,16 +1,16 @@
 - name: GitHub
-  url: http://github.com/
+  url: http://github.com/derkkila
   class: icon-github
   title: ""
 
-- name: YouTube
-  url: http://www.youtube.com/
-  class: icon-youtube
+- name: Twitter
+  url: https://twitter.com/doug_erkkila
+  class: icon-twitter
   title: ""
 
-- name: Twitter
-  url: http://twitter.com/
-  class: icon-twitter
+- name: LinkedIn
+  url: https://twitter.com/doug_erkkila
+  class: icon-linkedin
   title: ""
 
 # - name: Mixcloud
