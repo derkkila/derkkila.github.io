@@ -1,5 +1,5 @@
 - name: GitHub
-  url: http://github.com/derkkila
+  url: https://github.com/derkkila
   class: icon-github
   title: ""
 
@@ -9,7 +9,7 @@
   title: ""
 
 - name: LinkedIn
-  url: https://twitter.com/doug_erkkila
+  url: https://www.linkedin.com/in/dougerkkila
   class: icon-linkedin
   title: ""
 
